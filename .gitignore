@@ -1,0 +1,6 @@
+# Ignore data and models folder
+data
+models
+
+# Ignore python artifiacts
+*.pyc
